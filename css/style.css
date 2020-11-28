@@ -166,7 +166,7 @@ footer {
   }
 
   .form-container {
-    width: 360px
+    width: 300px
   }
 }
 
@@ -194,6 +194,9 @@ footer {
   }
 
   .information {
+    width: 340px
+  }
+  .form-container {
     width: 340px
   }
 
