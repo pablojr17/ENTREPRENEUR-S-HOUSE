@@ -177,10 +177,6 @@ footer {
     font-size: 12px
   }
 
-
-  .mb {
-    margin-bottom: 5px;
-  }
 }
 
 @media screen and (max-width: 600px) {
